@@ -1,1 +1,34 @@
-
+{
+  "meta": {
+    "razao": "?",
+    "dataRef": "14/09/2026",
+    "atualizado": "2026-09-14T21:53:34.981Z",
+    "totalLinhas": 835726,
+    "razoes": [],
+    "superints": [],
+    "regionais": [],
+    "cscs": []
+  },
+  "kpis": {
+    "totalUC": 835726,
+    "execDia": 830924,
+    "execPost": 0,
+    "pendentes": 4802,
+    "impedimentos": 10352,
+    "pontualidade": 100,
+    "pctExec": 99.4,
+    "pctImp": 1.2
+  },
+  "ritmo": {
+    "buckets": [],
+    "diaData": [],
+    "postData": []
+  },
+  "colaboradores": [],
+  "porRazao": {},
+  "porSuperint": {},
+  "porRegional": {},
+  "porCSC": {},
+  "colabsPorRazao": {},
+  "colabsPorCSC": {}
+}
